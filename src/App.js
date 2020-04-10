@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
        
-          Travisten Yeni Deploy gh-pages
+          Travisten Githubda değişiklik yaptık ve deploy ettik
       
       </header>
     </div>
