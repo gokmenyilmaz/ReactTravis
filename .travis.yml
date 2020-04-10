@@ -1,17 +1,18 @@
-
 language: node_js
 node_js:
-  - "stable"
-cache:
-  directories:
-  - node_modules
+- 12.10.0
+cache: npm
+
+install:
+  - npm install
+
 script:
   - npm run build
 
-  deploy:
-    provider: pages
-    skip_cleanup: true
-    github_token: $github_token
-    local_dir: build
-    on:
-      branch: master
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github-token: $GITHUB_TOKEN
+  local_dir: build 
+  on:
+    branch: master
