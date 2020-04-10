@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactTravis/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactTravis/static/js/main.076dd7cb.chunk.js",
+    "main.js.map": "/ReactTravis/static/js/main.076dd7cb.chunk.js.map",
+    "runtime-main.js": "/ReactTravis/static/js/runtime-main.49da95ab.js",
+    "runtime-main.js.map": "/ReactTravis/static/js/runtime-main.49da95ab.js.map",
+    "static/js/2.a770d47f.chunk.js": "/ReactTravis/static/js/2.a770d47f.chunk.js",
+    "static/js/2.a770d47f.chunk.js.map": "/ReactTravis/static/js/2.a770d47f.chunk.js.map",
+    "index.html": "/ReactTravis/index.html",
+    "precache-manifest.40d4b9d76c205c9c3d0248fa53eedc84.js": "/ReactTravis/precache-manifest.40d4b9d76c205c9c3d0248fa53eedc84.js",
+    "service-worker.js": "/ReactTravis/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactTravis/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a770d47f.chunk.js.LICENSE.txt": "/ReactTravis/static/js/2.a770d47f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49da95ab.js",
+    "static/js/2.a770d47f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.076dd7cb.chunk.js"
+  ]
+}
