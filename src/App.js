@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
        
-          Travisten Deploy gh-pages
+          Travisten Yeni Deploy gh-pages
       
       </header>
     </div>
